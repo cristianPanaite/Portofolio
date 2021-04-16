@@ -1,6 +1,6 @@
 # Portofolio
 Different technologies used in different contexts :)
-## 1. app_classes
+### 1. app_classes
 	- students management system (console application)
 	- in file repository
 	- **OOP** paradigm used
