@@ -9,7 +9,7 @@ Different technologies used in different contexts :)
 	- simple transaction system (console application)
 	- **procedural** paradigm used
 	- **Technologies used:** C
-3. ###app_Java_client_server
+###3. app_Java_client_server
 	- competition registration system (GUI application)
 	- **OOP** paradigm used
 	- **Obsever**, **MVC** patterns used
