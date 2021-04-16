@@ -9,7 +9,7 @@ Different technologies used in different contexts :)
 	- simple transaction system (console application)
 	- **procedural** paradigm used
 	- **Technologies used:** C
-###3. app_Java_client_server
+3. app_Java_client_server
 	- competition registration system (GUI application)
 	- **OOP** paradigm used
 	- **Obsever**, **MVC** patterns used
@@ -19,15 +19,15 @@ Different technologies used in different contexts :)
 		- with sockets using RPC protocol
 		- with Spring Remoting
 	- **Technologies used:** Java, JavaFx, Spring, SQLite, Threads, Log4J, Gradle
-4. ###app_Qt_C++
+4. app_Qt_C++
 	- catalog for grades system (GUI application)
 	- chaos testing
 	- **MVC** pattern used
 	- **Technologies used:** C++, Qt
-5. ###GA_TSP_problem
+5. GA_TSP_problem
 	- Traveling Salesman Problem using Genetic Algorithm
 
-6. ###Least_Squares_regression_implementation
+6. Least_Squares_regression_implementation
 	- bivariate regression using least squares method to predict the happines score based on freedom and GPA	
 	- 2 solutions
 		- using extern library
