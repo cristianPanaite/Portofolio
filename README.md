@@ -1,11 +1,11 @@
 # Portofolio
 Different technologies used in different contexts :)
-1. ###app_classes
+1. app_classes
 	- students management system (console application)
 	- in file repository
 	- **OOP** paradigm used
 	- **Technologies used:** Python
-2. ###app_functions
+2. app_functions
 	- simple transaction system (console application)
 	- **procedural** paradigm used
 	- **Technologies used:** C
