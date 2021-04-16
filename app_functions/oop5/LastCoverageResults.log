@@ -1,0 +1,22 @@
+[2020-03-25 11:45:56] [info] Start Program:
+Path:"D:\\Code\\Faculta\\an1_sem2\\OOP\\lab2\\oop5\\x64\\Debug\\oop5.exe"
+Arguments:
+Working directory: "D:\\Code\\Faculta\\an1_sem2\\OOP\\lab2\\oop5\\oop5\\"
+Modules: Selected: D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\x64\Debug\oop5.exe Excluded: 
+Sources: Selected: D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\oop5 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Crist\AppData\Local\Temp\pcfer5fz.u3k 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-03-25 11:45:56] [info] Module: D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\x64\Debug\oop5.exe is selected because it matches selected pattern: D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\x64\Debug\oop5.exe
+[2020-03-25 21:16:40] [info] ----------------------------------------------------
+[2020-03-25 21:16:40] [info] Coverage binary generated in file: C:\Users\Crist\AppData\Local\Temp\pcfer5fz.u3k
+[2020-03-25 21:16:40] [info] ----------------------------------------------------
+[2020-03-25 21:16:40] [error] Your program stop with error code: 1

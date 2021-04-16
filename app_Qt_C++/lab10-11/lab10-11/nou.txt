@@ -1,0 +1,4 @@
+istorie,3,obligatoriu,mariana
+mate,8,optional,marian
+geometrie,25,obligatoriu,BUlbuc
+religie,8,optional,maha

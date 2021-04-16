@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <util:properties id="jdbcProps" location="classpath:bd.config"/>
+
+    <bean id = "userRepoJDBC" class="repository.database.UserDBRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id = "probaRepoJDBC" class="repository.database.ProbaDBRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id = "personRepoJDBC" class="repository.database.PersonDBRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id = "inscriereRepoJDBC" class="repository.database.InscriereDBRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id="proiectService" class="service.Services">
+        <constructor-arg ref="userRepoJDBC"/>
+        <constructor-arg ref="personRepoJDBC"/>
+        <constructor-arg ref="probaRepoJDBC"/>
+        <constructor-arg ref="inscriereRepoJDBC"/>
+    </bean>
+
+</beans>

@@ -1,0 +1,5 @@
+package rpcProtocol;
+
+public enum RequestType {
+    LOGIN, LOGOUT,GET_PROBE_INSCRIERI,INSCRIERE,GET_PARTICIPANTI_PROBA,GET_PROBE;
+}

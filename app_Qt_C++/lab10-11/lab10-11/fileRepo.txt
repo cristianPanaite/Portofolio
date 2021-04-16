@@ -1,0 +1,3 @@
+mate,5,optional,mama
+religie,9,optional,uyvacsbjk
+info,5,optional,fgyhuj

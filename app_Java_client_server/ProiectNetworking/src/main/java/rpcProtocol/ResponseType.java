@@ -1,0 +1,5 @@
+package rpcProtocol;
+
+public enum ResponseType {
+    OK, ERROR, GET_PROBE_NUMARPART,INSCRIERE,GET_PARTICIPANTI_PROBA,UPDATE,GET_PROBE;
+}

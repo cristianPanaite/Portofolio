@@ -1,0 +1,3 @@
+mate,8,optional,fbehsjk
+biologie,7,obligatoriu,vbsnkal
+religie,6,facultativ,mehehe

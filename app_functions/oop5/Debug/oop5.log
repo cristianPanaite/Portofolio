@@ -1,0 +1,4 @@
+﻿  validare.c
+D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\oop5\validare.c(8,9): warning C4013: 'strcat' undefined; assuming extern returning int
+D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\oop5\validare.c(22,12): warning C4013: 'strlen' undefined; assuming extern returning int
+  oop5.vcxproj -> D:\Code\Faculta\an1_sem2\OOP\lab2\oop5\Debug\oop5.exe
