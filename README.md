@@ -20,7 +20,7 @@ Different technologies used in different contexts :)
 		- with Spring Remoting
 	- **Technologies used:** Java, JavaFx, Spring, SQLite, Threads, Log4J, Gradle
 4. app_Qt_C++
-	- catalog for grades system (GUI application)
+	- grades management system (GUI application)
 	- chaos testing
 	- **MVC** pattern used
 	- **Technologies used:** C++, Qt
